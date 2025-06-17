@@ -74,7 +74,7 @@ Isle App Tools includes an automatic update mechanism powered by Squirrel.Window
 If you encounter any issues, have questions, or would like to connect with other users, please join our Discord server:
 
 * [**Join our Discord Community!**](https://discord.gg/kzeUVC6DhP)
-    **IMPORTANT:** Replace `your-invite-link` with your actual Discord invite link.
+
 
 ## License
 
