@@ -1,6 +1,6 @@
 # Isle App Tools
 
-[![GitHub Releases](https://img.shields.io/github/downloads/YOUR_GITHUB_USERNAME_OR_ORG/YOUR_REPOSITORY_NAME/total.svg?style=flat-square)](https://github.com/YOUR_GITHUB_USERNAME_OR_ORG/YOUR_REPOSITORY_NAME/releases/latest)
+[![GitHub Releases](https://img.shields.io/github/downloads/thetoprat/isletools/total.svg?style=flat-square)](https://github.com/YOUR_GITHUB_USERNAME_OR_ORG/YOUR_REPOSITORY_NAME/releases/latest)
 [![License: UNLICENSED](https://img.shields.io/badge/License-UNLICENSED-red.svg)](./LICENSE.md)
 [![Discord](https://img.shields.io/discord/YOUR_DISCORD_SERVER_ID?label=Discord&logo=discord&style=flat-square)](https://discord.gg/your-invite-link)
 
