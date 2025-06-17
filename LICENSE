@@ -1,24 +1,40 @@
-This is free and unencumbered software released into the public domain.
+# Isle App Tools Software License Agreement
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Copyright (c) 2025 Orion Labs. All rights reserved.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+This Software is the exclusive property of Orion Labs. All intellectual property rights, including copyrights, trade secrets, and patent rights, are reserved by Orion Labs.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+By installing, accessing, or using this Software, you agree to be bound by the terms and conditions of this License Agreement. If you do not agree to the terms of this License Agreement, you are not authorized to install, access, or use the Software.
 
-For more information, please refer to <https://unlicense.org>
+## License Grant
+
+Orion Labs grants you a non-exclusive, non-transferable, limited license to install and use the Software solely for your personal, non-commercial use on a single device, subject to the terms and conditions of this Agreement.
+
+## Restrictions
+
+You expressly agree that you shall not:
+
+1.  **Modify, adapt, translate, or create derivative works based on the Software.**
+2.  **Reverse engineer, decompile, disassemble, or attempt to derive the source code of the Software**, except to the extent that such activities are expressly permitted by applicable law notwithstanding this limitation.
+3.  **Rent, lease, lend, sell, redistribute, sublicense, or otherwise transfer the Software** to any third party.
+4.  **Remove, alter, or obscure any proprietary notices** (including copyright and trademark notices) of Orion Labs or its suppliers.
+5.  **Use the Software for any commercial purpose** or for any purpose that competes with Orion Labs.
+6.  **Use the Software in any unlawful manner**, for any unlawful purpose, or in any manner inconsistent with this Agreement.
+
+## Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL ORION LABS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF ORION LABS HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+## Termination
+
+This License Agreement is effective until terminated. Your rights under this Agreement will terminate automatically without notice from Orion Labs if you fail to comply with any term(s) of this Agreement. Upon termination, you shall cease all use of the Software and destroy all copies, full or partial, of the Software.
+
+## Governing Law
+
+This License Agreement shall be governed by and construed in accordance with the laws of the State of Oklahoma, United States, without regard to its conflict of law principles.
+
+By using this Software, you acknowledge that you have read this License Agreement, understand it, and agree to be bound by its terms and conditions.
