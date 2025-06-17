@@ -75,6 +75,8 @@ If you encounter any issues, have questions, or would like to connect with other
 
 * [**Join our Discord Community!**](https://discord.gg/kzeUVC6DhP)
 
+Report bugs to the issue tracker here on Github.
+
 
 ## License
 
