@@ -27,8 +27,8 @@ Before you begin, please ensure your system meets the following requirements:
 
 ### Download the Installer
 
-1.  Go to the [**Isle App Tools Releases page on GitHub**](https://github.com/YOUR_GITHUB_USERNAME_OR_ORG/YOUR_REPOSITORY_NAME/releases/latest).
-    **IMPORTANT:** Replace `YOUR_GITHUB_USERNAME_OR_ORG` and `YOUR_REPOSITORY_NAME` with your actual GitHub username/organization and repository name in the link above and in the badges.
+1.  Go to the [**Isle App Tools Releases page on GitHub**](https://github.com/thetoprat/isletools/releases/latest).
+
 2.  Locate the latest release (e.g., `v1.0.0`).
 3.  Under the "Assets" section, download the installer file. It will typically be named something like `IsleAppTools Setup 1.0.0.exe` or similar.
 
@@ -73,7 +73,7 @@ Isle App Tools includes an automatic update mechanism powered by Squirrel.Window
 
 If you encounter any issues, have questions, or would like to connect with other users, please join our Discord server:
 
-* [**Join our Discord Community!**](https://discord.gg/your-invite-link)
+* [**Join our Discord Community!**](https://discord.gg/kzeUVC6DhP)
     **IMPORTANT:** Replace `your-invite-link` with your actual Discord invite link.
 
 ## License
