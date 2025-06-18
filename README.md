@@ -1,15 +1,24 @@
 # Isle App Tools
 ![image](https://github.com/user-attachments/assets/c409f23a-00fc-4af9-9fb4-0dc433f6f01f)
 
-
 [![GitHub Releases](https://img.shields.io/github/downloads/thetoprat/isletools/total.svg?style=flat-square)](https://github.com/thetoprat/isletools/releases/latest)
 [![License: UNLICENSED](https://img.shields.io/badge/License-UNLICENSED-red.svg)](./LICENSE.md)
 [![Discord](https://img.shields.io/discord/1125476200144453642?label=Discord&logo=discord&style=flat-square)](https://discord.gg/kzeUVC6DhP)
 
+---
+
+> ⚠️ **Disclaimer**  
+> This project is an independent creation and is **not affiliated, associated, authorized, endorsed by, or in any way officially connected with Afterthought LLC, The Isle, or any of its subsidiaries or affiliates**.  
+>  
+> The use of any trademarks, logos, or copyrighted material is for **educational and informational purposes only** and remains the property of their respective owners.  
+>  
+> This software is provided **strictly for educational use**, research, and personal exploration. The developer does **not condone misuse**, including circumventing game protections or violating any terms of service. Use at your own risk.
+
+---
 
 ## About Isle App Tools
 
-Isle App Tools is a desktop utility designed to enhance your experience with The Isle game. It provides powerful features for both players and server administrators, giving you more control and convenience over your game data and server management.
+Isle App Tools is a desktop utility designed to enhance your experience with *The Isle* game. It provides powerful features for both players and server administrators, giving you more control and convenience over your game data and server management.
 
 ## Features
 
@@ -30,7 +39,6 @@ Before you begin, please ensure your system meets the following requirements:
 ### Download the Installer
 
 1.  Go to the [**Isle App Tools Releases page on GitHub**](https://github.com/thetoprat/isletools/releases/latest).
-
 2.  Locate the latest release (e.g., `v1.0.0`).
 3.  Under the "Assets" section, download the installer file. It will typically be named something like `IsleAppTools Setup 1.0.0.exe` or similar.
 
@@ -79,10 +87,10 @@ If you encounter any issues, have questions, or would like to connect with other
 
 Report bugs to the issue tracker here on Github.
 
-
 ## License
 
-This software is **UNLICENSED** and all rights are reserved by Orion Labs.
-For full details, please refer to the [LICENSE.md](./LICENSE.md) file included with the software and in this repository. Modification, redistribution, reverse engineering, and creation of derivative works are strictly prohibited.
+This software is **UNLICENSED** and all rights are reserved by Orion Labs.  
+For full details, please refer to the [LICENSE.md](./LICENSE.md) file included with the software and in this repository.  
+Modification, redistribution, reverse engineering, and creation of derivative works are strictly prohibited.
 
 ---
