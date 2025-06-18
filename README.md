@@ -89,8 +89,12 @@ Report bugs to the issue tracker here on Github.
 
 ## License
 
-This software is **UNLICENSED** and all rights are reserved by Orion Labs.  
-For full details, please refer to the [LICENSE.md](./LICENSE.md) file included with the software and in this repository.  
-Modification, redistribution, reverse engineering, and creation of derivative works are strictly prohibited.
+This software is proprietary and all rights are reserved by Orion Labs.
+
+A valid license key is required to access and use certain features of this application (such as the Save Editor).  
+By installing or using this software, you agree to the terms set forth in the [LICENSE.md](./LICENSE.md) file.
+
+Unauthorized modification, redistribution, reverse engineering, or the creation of derivative works is strictly prohibited.  
+Use of this software without a valid license key, except where explicitly permitted (e.g., trial mode), is a violation of these terms.
 
 ---
