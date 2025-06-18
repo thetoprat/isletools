@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/c409f23a-00fc-4af9-9fb4-0dc433f6f01f)
 
 [![GitHub Releases](https://img.shields.io/github/downloads/thetoprat/isletools/total.svg?style=flat-square)](https://github.com/thetoprat/isletools/releases/latest)
-[![License: UNLICENSED](https://img.shields.io/badge/License-UNLICENSED-red.svg)](./LICENSE.md)
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-blue.svg)](./LICENSE.md)
 [![Discord](https://img.shields.io/discord/1125476200144453642?label=Discord&logo=discord&style=flat-square)](https://discord.gg/kzeUVC6DhP)
 
 ---
