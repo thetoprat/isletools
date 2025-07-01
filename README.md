@@ -16,6 +16,7 @@
 
 ---
 
+
 ## About Isle App Tools
 
 Isle App Tools is a desktop utility designed to enhance your experience with *The Isle* game. It provides powerful features for both players and server administrators, giving you more control and convenience over your game data and server management.
@@ -86,6 +87,10 @@ If you encounter any issues, have questions, or would like to connect with other
 * [**Join our Discord Community!**](https://discord.gg/kzeUVC6DhP)
 
 Report bugs to the issue tracker here on Github.
+
+# ⚙️ For Developers
+There is a Command-Line API for developers wishing to automate features from Isle Tools into their systems. **A license key will be necessary for any pay-to-access feature. Obtain one subscribing to the Orion Labs BuyMeACoffee page.**
+https://github.com/thetoprat/isletools-devkit
 
 ## License
 
