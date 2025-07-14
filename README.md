@@ -90,7 +90,7 @@ Report bugs to the issue tracker here on Github.
 
 # ⚙️ For Developers
 There is a Command-Line API for developers wishing to automate features from Isle Tools into their systems. **A license key will be necessary for any pay-to-access feature. Obtain one subscribing to the Orion Labs BuyMeACoffee page.**
-https://github.com/thetoprat/isletools-devkit
+[THIS IS COMING BACK SOON!]
 
 ## License
 
