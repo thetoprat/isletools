@@ -25,6 +25,7 @@ Isle App Tools is a desktop utility designed to enhance your experience with *Th
 
 * **Save Editor:** Securely decrypt, modify, and re-encrypt player save files. Take full control over your character's data directly from your desktop. *Requires an active license for full functionality.*
 * **RCON Client:** Remotely send commands to your game server. Manage server settings, send announcements, and monitor player activity from a user-friendly interface.
+* **Server Browser:** Using the EOS API to search various servers for The Isle. This is the same system the game itself uses.
 
 ## Installation Guide
 
@@ -88,8 +89,9 @@ If you encounter any issues, have questions, or would like to connect with other
 
 Report bugs to the issue tracker here on Github.
 
-# ⚙️ For Developers
-There is a Command-Line API for developers wishing to automate features from Isle Tools into their systems. **A license key will be necessary for any pay-to-access feature. Obtain one subscribing to the Orion Labs BuyMeACoffee page.**
+# ⚙️ ~~For Developers~~
+~~There is a Command-Line API for developers wishing to automate features from Isle Tools into their systems. **A license key will be necessary for any pay-to-access feature. Obtain one subscribing to the Orion Labs BuyMeACoffee page.**~~
+
 [THIS IS COMING BACK SOON!]
 
 ## License
