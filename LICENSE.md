@@ -59,6 +59,4 @@ This Agreement is effective until terminated. Your rights under this License wil
 
 ## Governing Law and Jurisdiction
 
-This Agreement shall be governed by and construed in accordance with the laws of the **State of Oklahoma**, United States, without regard to conflict of law rules.
-
-**Any disputes** arising under or in connection with this Agreement shall be subject to the **exclusive jurisdiction of the**
+This Agreement shall be governed by and construed in accordance with the laws of the **State of Oklahoma** & **State of Texas**, United States, without regard to conflict of law rules.
