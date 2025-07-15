@@ -62,6 +62,7 @@ Before you begin, please ensure your system meets the following requirements:
 * **Navigation:** Use the sidebar to switch between "Homepage", "Save Editor", and "RCON Client" views.
 * **Save Editor:** Follow the on-screen prompts to upload, decrypt, edit, and re-encrypt `.sav` files. Remember that Save Editor functionality requires a valid license.
 * **RCON Client:** Enter your server's IP, RCON Port, and Password to connect and send commands.
+* **Server Brwoser:** View various servers using the same system The Isle uses.
 
 ## Automatic Updates
 
