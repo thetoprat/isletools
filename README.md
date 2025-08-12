@@ -103,6 +103,6 @@ A valid license key is required to access and use certain features of this appli
 By installing or using this software, you agree to the terms set forth in the [LICENSE.md](./LICENSE.md) file.
 
 Unauthorized modification, redistribution, reverse engineering, or the creation of derivative works is strictly prohibited.  
-Use of this software without a valid license key, except where explicitly permitted (e.g., trial mode), is a violation of these terms.
+Use of this software's save editor without a valid license key, except where explicitly permitted (e.g., trial mode), is a violation of these terms.
 
 ---
