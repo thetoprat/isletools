@@ -39,6 +39,24 @@ Orion Labs reserves the right to take **any and all legal action** available und
 
 ---
 
+## Refund and Cancellation Policy
+
+1. **Refund Eligibility**
+   Refunds may only be granted within **7 days of purchase** and solely at the discretion of Orion Labs. To be eligible, the User must provide proof of purchase and demonstrate that the Software was not used in violation of this Agreement.
+
+2. **Non-Refundable Circumstances**
+
+   * No refunds will be issued for license misuse, violations of this Agreement, or dissatisfaction arising from improper installation, unsupported systems, or lack of understanding of the Software.
+   * Subscriptions, once activated, are non-refundable unless required by applicable law.
+
+3. **Cancellations**
+   Users may cancel their subscription or license renewal at any time prior to the next billing cycle. Cancellations do not retroactively grant refunds.
+
+4. **Chargebacks**
+   Any User who initiates a chargeback or payment dispute will be **permanently banned** from accessing or using the Software. Chargebacks create harm and unnecessary administrative burdens, adding multiple layers of issues for the Orion Labs team to handle. To protect the integrity of our services and our users, chargeback activity will not be tolerated. Orion Labs reserves the right to report fraudulent chargebacks to financial institutions, payment processors, and relevant authorities.
+
+---
+
 ## Disclaimer of Warranty
 
 THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. ORION LABS DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY ORION LABS OR ITS REPRESENTATIVES SHALL CREATE A WARRANTY.
