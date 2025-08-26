@@ -21,7 +21,7 @@
 
 Isle App Tools is a desktop utility designed to enhance your experience with *The Isle* game. It provides powerful features for both players and server administrators, giving you more control and convenience over your game data and server management.
 
-[Terms of Service](./terms.md)
+Please advise by downloading and using Isle Tools you accept our [Terms of Service](./terms.md) and [License Agreement](./LICENSE.md)
 
 ## Features
 
