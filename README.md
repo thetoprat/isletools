@@ -21,6 +21,8 @@
 
 Isle App Tools is a desktop utility designed to enhance your experience with *The Isle* game. It provides powerful features for both players and server administrators, giving you more control and convenience over your game data and server management.
 
+[Terms of Service](./terms.md)
+
 ## Features
 
 * **Save Editor:** Securely decrypt, modify, and re-encrypt player save files. Take full control over your character's data directly from your desktop. *Requires an active license for full functionality.*
