@@ -5,6 +5,9 @@
 [![License: Proprietary](https://img.shields.io/badge/License-Proprietary-blue.svg)](./LICENSE.md)
 [![Discord](https://img.shields.io/discord/1125476200144453642?label=Discord&logo=discord&style=flat-square)](https://discord.gg/kzeUVC6DhP)
 
+This software is developed and maintained by TheTopRat (Kadin).
+Contact notkadin on Discord for further assistance.
+
 ---
 
 > ⚠️ **Disclaimer**  
